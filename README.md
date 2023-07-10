@@ -24,6 +24,7 @@
 - [Fuel](https://github.com/FuelLabs/awesome-fuel) - Curated list of stable cryptocurrency resources and projects. [notion link](https://fuellabs.notion.site/Awesome-Fuel-7b4ca6b262d3414a9968f275cba43fc9)
 - [Huff](https://github.com/devtooligan/awesome-huff) - Curated list of resources for Huff language.
 - [IPFS](https://github.com/ipfs/awesome-ipfs) - Useful resources for using IPFS and building things on top of it.
+- [Layer 2](https://github.com/Awesome-Layer-2/awesome-layer-2) - A list of Layer 2 related stuff.
 - [Lens Protocol](https://github.com/0xJuancito/awesome-lens-protocol) - Curated list of awesome Lens Protocol projects, resources, libraries, tools and more.
 - [MakerDAO](https://github.com/makerdao/awesome-makerdao) - Collection of tools, documents, articles, blog posts, interviews, and videos related to MakerDAO and the Dai stablecoin.
 - [MEV](https://github.com/0xemperor/Awesome-MEV) - A list of MEV resources with a focus on past research papers/talks.
@@ -35,7 +36,6 @@
 - [Solana](https://github.com/avareum/awesome-solana) - Curated list of Solana Resources.
 - [Solidity](https://github.com/bkrem/awesome-solidity) - Curated list of awesome Solidity resources, libraries, tools and more.
 - [Stablecoins](https://github.com/sdtsui/awesome-stablecoins) - Curated list of stable cryptocurrency resources and projects.
-- [Layer 2](https://github.com/Awesome-Layer-2/awesome-layer-2) - A list of Layer 2 related stuff.
 - [Stacks](https://github.com/friedger/awesome-stacks-chain) - A list of Awesome Stacks related stuff. Stacks, the blockchain using Proof of Transfer.
 - [StarkNet](https://github.com/gakonst/awesome-starknet) - Curated list of awesome StarkNet resources, libraries, tools and more.
 - [The Graph](https://github.com/MichaelMacaulay/Awesome-The-Graph) - Curated list of awesome resources for The Graph.
@@ -46,6 +46,7 @@
 - [Wagmi](https://github.com/wagmi-dev/awesome-wagmi) - Curated list of awesome projects and resources related to Wagmi.
 - [Wallet](https://github.com/zgayjjf/awesome-wallet) - The Way to make a perfect cryptocurrency wallet.
 - [WalletConnect](https://github.com/WalletConnect/awesome-walletconnect) - A curated list of awesome WalletConnect resources, libraries, tools and more.
+- [Web3 AI Security](https://github.com/JoranHonig/awesome-web3-ai-security) - Web3 AI Security.
 - [Web3 Security](https://github.com/Anugrahsr/Awesome-web3-Security) - A curated list of web3Security materials and resources For Pentesters and Bug Hunters.
 - [XMTP](https://github.com/xmtp/awesome-xmtp) - Curated list of awesome resources and projects built using XMTP.
 - [Zero Knowledge](https://github.com/ventali/awesome-zk) - Curated list of awesome ZK resources, libraries, tools and more.
