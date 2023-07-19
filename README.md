@@ -30,6 +30,7 @@
 - [MEV](https://github.com/0xemperor/Awesome-MEV) - A list of MEV resources with a focus on past research papers/talks.
 - [MEV Resources](https://github.com/0xalpharush/awesome-MEV-resources) - Get up to speed on Maximum Extractable Value.
 - [NFT](https://github.com/gianni-dalerta/awesome-nft) - Curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software.
+- [On-Chain Investigations HandBook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) - Here how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals.
 - [Reentrancy Attacks](https://github.com/pcaversaccio/reentrancy-attacks) - A chronological and (hopefully) complete list of reentrancy attacks to date.
 - [RPC Nodes](https://github.com/arddluma/awesome-list-rpc-nodes-providers) - Curated list of awesome Node providers and public RPC endpoints.
 - [Solana NFTs](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools.
