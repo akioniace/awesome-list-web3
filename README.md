@@ -18,6 +18,7 @@
 - [Ethereum Security](https://github.com/crytic/awesome-ethereum-security) - Curated list of Ethereum security references, guidance, tools, and more.
 - [Ethereum](https://github.com/bekatom/awesome-ethereum) - Awesome Ethereum & Dapps Resources.
 - [EVM Chad](https://github.com/mektigboy/evm-chad) - A curated list of the hottest and most fresh resources to become an EVM chad.
+- [EVM Security](https://github.com/kareniel/awesome-evm-security) - A high-level overview of the EVM security ecosystem.
 - [Farcaster Protocol](https://github.com/a16z/awesome-farcaster) - A collection of awesome Farcaster links including clients, tools, and more.
 - [Filecoin](https://github.com/filecoin-project/awesome-filecoin) - A curated list of useful resources for Filecoin.
 - [Foundry](https://github.com/crisgarner/awesome-foundry) - Curated list of awesome Foundry resources, tutorials, tools and libraries.
