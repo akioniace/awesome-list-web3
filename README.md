@@ -13,6 +13,7 @@
 - [Chainlink](https://github.com/JohannEid/awesome-chainlink) - A curated list of awesome resources, tutorials, articles partners and many others to learn everything Chainlink.
 - [Cosmos](https://github.com/cosmos/awesome-cosmos) - A community curated list of awesome projects related to the Cosmos ecosystem.
 - [Cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency) - A curated list of awesome blockchain, cryptocurrency and fintech resources. Early stage work in progress.
+- [Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - An awesome curated list of Cryptoeconomic research and learning materials.
 - [DEX](https://github.com/phantomk/awesome-dex) - A curated list of Decentralized Exchange, Decentralized Exchange Protocol and Wallet resources for developers.
 - [Ethereum Rollups](https://github.com/attestate/awesome-ethereum-rollups) - A list of resources related to scaling with rollups.
 - [Ethereum Security](https://github.com/crytic/awesome-ethereum-security) - Curated list of Ethereum security references, guidance, tools, and more.
