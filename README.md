@@ -4,6 +4,7 @@
 
 - [Account Abstraction](https://github.com/4337Mafia/awesome-account-abstraction) - A curated list of resources dedicated to Account Abstraction (EIP-4337).
 - [Algorand](https://github.com/aorumbayev/awesome-algorand) - Curated list of awesome resources related to the Algorand Blockchain.
+- [AMM](https://github.com/0xperp/awesome-amm) - Collection of AMMs, Orderbooks, and everything in between.
 - [Arweave](https://github.com/bitruss/awesome-arweave) - Curated list of awesome resources related to the Arweave.
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - A curated list of bitcoin services and tools for software developers.
 - [Blockchain Books](https://github.com/BlockchainBooks/blockchainbooks.github.io) - Blockchain Books to help people learn and become Awesome.
