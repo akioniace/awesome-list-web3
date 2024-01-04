@@ -36,6 +36,7 @@
 - [On-Chain Investigations HandBook](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) - Here how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals.
 - [Openzeppelin](https://github.com/OpenZeppelin/awesome-openzeppelin) -  Blockchain educational resources curated by the OpenZeppelin team.
 - [Oracle Manipulation](https://github.com/0xcacti/awesome-oracle-manipulation) - Awesome list of all things oracle manipulation. Creating to help spread a better understanding of oracles and oracle manipulation.
+- [Polkadot](https://github.com/Awsmdot/awesome-dot) - Central Library of Polkadot ecosystem.
 - [Reentrancy Attacks](https://github.com/pcaversaccio/reentrancy-attacks) - A chronological and (hopefully) complete list of reentrancy attacks to date.
 - [RPC Nodes](https://github.com/arddluma/awesome-list-rpc-nodes-providers) - Curated list of awesome Node providers and public RPC endpoints.
 - [Solana NFTs](https://github.com/ilmoi/awesome-solana-nfts) - A curated list of Solana NFT protocols, repos & community tools.
