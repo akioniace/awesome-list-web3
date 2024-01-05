@@ -14,6 +14,7 @@
 - [Chainlink](https://github.com/JohannEid/awesome-chainlink) - A curated list of awesome resources, tutorials, articles partners and many others to learn everything Chainlink.
 - [Cosmos](https://github.com/cosmos/awesome-cosmos) - A community curated list of awesome projects related to the Cosmos ecosystem.
 - [Cosmos](https://github.com/MchainNetwork/cosmos-awesome) - A curated collection of services, dApps, and other resources related to the Cosmos blockchain network and IBC blockchains.
+- [Cosmos Security](https://github.com/deliriusz/awesome-cosmos-security) - A curated list of Cosmos ecosystem links, focusing on the security aspect of it.
 - [Cryptocurrency](https://github.com/cmahon/awesome-cryptocurrency) - A curated list of awesome blockchain, cryptocurrency and fintech resources. Early stage work in progress.
 - [Cryptoeconomics](https://github.com/jpantunes/awesome-cryptoeconomics) - An awesome curated list of Cryptoeconomic research and learning materials.
 - [DEX](https://github.com/phantomk/awesome-dex) - A curated list of Decentralized Exchange, Decentralized Exchange Protocol and Wallet resources for developers.
